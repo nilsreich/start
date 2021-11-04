@@ -140,7 +140,7 @@
                             </div>
                         </div>
                         <div class="text-black cursor-text p-4">
-                            <div class="text-lg">Lineare Funktionen</div>
+                            <div class="text-lg">Lineare Funktionen 2</div>
                         </div>
                     </div>
                     <div class=" w-60 relative bg-[#f4f4f4]">
